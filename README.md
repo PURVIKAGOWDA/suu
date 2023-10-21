@@ -7,7 +7,10 @@ SUDOKU
 Mini - Project Report
 
 Submitted by
+PURVIKA S            20201ISE0050
 PRAMODH YADAV M      20201ISE0053
+KAVANA               20201ISE0070
+
 
 In partial fulfillment for the requirement of 6th Semester
 CSE3150 Front End Full Stack Development
